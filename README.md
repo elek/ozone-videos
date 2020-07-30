@@ -20,6 +20,14 @@ Other ideas to contribute:
  * create subtitles in different languages
  * remake any of the videos in different language
 
+## Used tools
+
+I prefer to use only Open Source tools to create the videos to make it easier to reuse / remix source materials.
+
+ * presentations are created with Libre Office (Using [Montserrat fonts](https://github.com/JulietaUla/Montserrat))
+ * diagrams (whiteboards) are created with draw.io (available for both offline and online usage)
+ * less relevant, but videos are recorded by Obs (using only very small set of the features)
+
 ## Contact
 
 In case of any questions, you can use any of the Ozone's communication channels:
