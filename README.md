@@ -25,6 +25,8 @@ Other ideas to contribute:
 In case of any questions, you can use any of the Ozone's communication channels:
 
  * **email**: use ozone-dev@hadoop.apache.org.
- * **chat**: You can find the #ozone-videos channel at the ASF slack. Invite link is [here](http://s.apache.org/slack-invite)
+ * **chat**: Invite link is [here](http://s.apache.org/slack-invite)
+    * #ozone channel is dedicated to any Ozone related question
+    * #ozone-videos is dedicated to creating more videos
 
 
