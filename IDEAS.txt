@@ -1,0 +1,14 @@
+
+# TODO
+
+This document collects further ideas / topics to cover with the video series. (Feel free to edit / PR)
+
+## Ozone Explained
+
+ * S3 basics (links, authentication, configuration)
+ * RAFT log vs. persistent state
+
+## Ozone Development
+
+ * Isolated datanode test: can help to understand how the datanode is working internal
+ * EventQueue: core of the SCM
